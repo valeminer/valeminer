@@ -29,6 +29,16 @@
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/valeminer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
+<h3>I am a member of the Free Software Foundation</h3>
+
+I am a **proud and official member** of the [Free Software Foundation (FSF)](https://www.fsf.org/), actively supporting its mission to defend the freedom to use, study, modify, and share software.  
+By joining the FSF, I stand for the ethical, social, and political values that define the free software movement.
+
+> *"Free software is a matter of liberty, not price."* — Richard M. Stallman
+
+This is my **official FSF member button**, which certifies my active membership in the foundation:
+![I'm a member of the FSF](https://static.fsf.org/nosvn/associate/crm/6977387.png)
+
 <h3>My GitHub contributions summary</h3>
 
 ![valeminer's Stats](https://github-readme-stats.vercel.app/api?username=valeminer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
