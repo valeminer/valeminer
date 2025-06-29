@@ -20,7 +20,7 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<h3>My most recent articles on:</h3>
+<h3>My most recent articles on</h3>
 <ul>
   <li><a href="https://www.tuttoandroid.net/author/valeriominervini"><i>TuttoAndroid</i></a></li>
   <li><a href="https://www.tuttotech.net/author/valeriominervini"><i>TuttoTech</i></a></li>
@@ -28,3 +28,9 @@
 
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/valeminer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<h3>My GitHub contributions summary</h3>
+
+![valeminer's Stats](https://github-readme-stats.vercel.app/api?username=valeminer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+![valeminer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valeminer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
