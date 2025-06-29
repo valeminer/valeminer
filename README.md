@@ -22,8 +22,8 @@
 
 <h3>My most recent articles on</h3>
 <ul>
-  <li><a href="https://www.tuttoandroid.net/author/valeriominervini"><i>TuttoAndroid</i></a></li>
-  <li><a href="https://www.tuttotech.net/author/valeriominervini"><i>TuttoTech</i></a></li>
+  <li><a href="https://www.tuttoandroid.net/author/valeriominervini" target="_blank"><i>TuttoAndroid</i></a></li>
+  <li><a href="https://www.tuttotech.net/author/valeriominervini" target="_blank"><i>TuttoTech</i></a></li>
 </ul>
 
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
