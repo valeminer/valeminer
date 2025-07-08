@@ -44,6 +44,6 @@ This is my **official FSF member button**, which certifies my active membership 
 
 <h3>My GitHub contributions summary</h3>
 
-![valeminer's Stats](https://github-readme-stats.vercel.app/api?username=valeminer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![vamiux's Stats](https://github-readme-stats.vercel.app/api?username=vamiux&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![valeminer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=valeminer&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![vamiux's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamiux&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
