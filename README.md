@@ -32,13 +32,13 @@
 
 <h3>I am a member of the Free Software Foundation</h3>
 
-I am a **proud and official member** of the [Free Software Foundation (FSF)](https://www.fsf.org/), actively supporting its mission to defend the freedom to use, study, modify, and share software.  
+I am a **proud and official associate member** of the [Free Software Foundation (FSF)](https://www.fsf.org/), actively supporting its mission to defend the freedom to use, study, modify, and share software.  
 By joining the FSF, I stand for the ethical, social, and political values that define the free software movement.
 
 > *"Free software is a matter of liberty, not price."* — Richard M. Stallman
 
 <br><br>
-This is my **official FSF member button**, which certifies my active membership in the foundation:
+This is my **official FSF associate member button**, which certifies my active membership in the foundation:
 <br><br>
 ![I'm a member of the FSF](https://static.fsf.org/nosvn/associate/crm/6983146.png)
 
