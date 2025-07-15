@@ -48,8 +48,11 @@ This is my **official FSF associate member button**, which certifies my active m
 
 <div align="center">
 
-![vamiux's GitHub stats](https://github-readme-stats.vercel.app/api?username=vamiux&show_icons=true&count_private=true&include_all_commits=true&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0d1017&bg_color=0e1118)
-![vamiux's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vamiux&layout=compact&langs_count=7&theme=codeSTACKr&title_color=e73737&icon_color=e73737&border_color=0e1118&bg_color=0e1118)
+![vamiux's Stats](https://github-readme-stats.vercel.app/api?username=vamiux&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+
+![vamiux's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamiux&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 ![vamiux's stats2](https://github-readme-streak-stats.herokuapp.com/?user=vamiux&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118)
 
 </div>
