@@ -42,7 +42,7 @@ By joining the FSF, I stand for the ethical, social, and political values that d
 <br><br>
 This is my **official FSF associate member button**, which certifies my active membership in the foundation:
 <br><br>
-![I'm a member of the FSF](https://static.fsf.org/nosvn/associate/crm/6983146.png)
+![I'm a member of the FSF](https://static.fsf.org/nosvn/associate/crm/6977387.png)
 
 <h3>My GitHub contributions summary</h3>
 
